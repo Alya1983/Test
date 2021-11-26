@@ -1,7 +1,7 @@
 package by.itovereone.entity;
 
 public class Human implements Comparable<Human> {//добавляем возмможность сравнивать объекты
-
+   
     private String name;
     private int id;
     private int age;
